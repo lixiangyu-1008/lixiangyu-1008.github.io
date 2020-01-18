@@ -11,7 +11,7 @@ Deep Learning, Depth Estimation, Visual Odometry, Action Recognition
 ### Programming Skills
 Python/Tensorflow/Pytorch
 
-Publicaiotns:
+### Publicaiotns:
 
 1. Xiangyu Li, Yonghong Hou1, Qi Wu, Pichao Wang, Wanqing Li
 "DVONet: Unsupervised Monocular Depth Estimation and Visual Odometry"
